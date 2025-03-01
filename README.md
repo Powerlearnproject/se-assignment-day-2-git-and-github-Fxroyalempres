@@ -19,7 +19,7 @@ Version control is a system that tracks changes to files (usually code, but it c
 
 7. *Collaboration*: Multiple people can work on the same project simultaneously. Everyone gets their own branch, and the system helps sync it all up without stepping on toes.
 
-### Why GitHub is Popular
+#### Why GitHub is Popular
 GitHub didn’t invent version control—that’s Git, created by Linus Torvalds in 2005. Git is the engine; GitHub is the slick garage where you park it. Here’s why it’s a go-to:
 
 - **Remote Hosting**: GitHub stores your repository online, so it’s accessible anywhere, backed up, and shareable. No more emailing zip files or losing everything if your laptop dies.
