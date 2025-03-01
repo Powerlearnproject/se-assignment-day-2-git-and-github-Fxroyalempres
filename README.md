@@ -30,7 +30,7 @@ GitHub didn’t invent version control—that’s Git, created by Linus Torvalds
 
 Git itself is decentralized—you don’t need GitHub to use it. But GitHub’s polish and ecosystem make it a hub. By March 2025, it’s still king, though competitors like GitLab and Bitbucket nibble at its edges.
 
-### How Version Control Maintains Project Integrity
+#### How Version Control Maintains Project Integrity
 - **History**: Every change is logged. If a feature breaks, you can trace back to when and why. No more “it worked yesterday” mysteries.
 - **Accountability**: Commits tie to users. You know who did what—great for debugging or just keeping egos in check.
 - **Safety**: Branches mean experiments don’t ruin the main codebase. Merging only happens when it’s solid. And if a merge goes bad, roll it back.
@@ -42,7 +42,7 @@ Without version control, you’re stuck with manual backups (code_v1, code_v2_fi
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 Setting up a new repository on GitHub is straightforward but involves a few key steps and decisions that shape how your project starts and evolves. Here’s the process, assuming you’ve got a GitHub account and Git installed locally (if you plan to work from your machine). I’ll walk through it as if you’re doing it from scratch, with pointers on what matters along the way.
 
-### Key Steps to Set Up a New Repository on GitHub
+#### Key Steps to Set Up a New Repository on GitHub
 
 1. **Log In to GitHub**  
    Head to github.com and sign in. You’ll need an account—free tier works fine for most unless you want private repos beyond the basics.
@@ -79,14 +79,14 @@ Setting up a new repository on GitHub is straightforward but involves a few key 
    - Push to GitHub: `git push origin main`.  
    - Refresh your GitHub page—it’s live.
 
-### Important Decisions to Make
+#### Important Decisions to Make
 - **Public vs. Private**: Public invites collaboration or scrutiny; private keeps it under wraps. If it’s a personal project or sensitive, lean private. Open-source dreams? Go public.  
 - **License**: This locks in how others can use your code. MIT is beginner-friendly; Apache adds patent protection. Research if it’s a serious project—wrong choice can bite later.  
 - **.gitignore**: Skipping this risks cluttering your repo with junk files. Pick the right template early, or you’ll be manually cleaning up commits later.  
 - **Branching Strategy**: GitHub starts you with a `main` branch. Decide if you’ll branch right away (e.g., `dev` for development) or keep it simple. Solo? Stick to `main`. Team? Plan ahead.  
 - **Initialization Options**: Skipping the README or .gitignore saves a click but means more setup later. Initializing them now sets a solid foundation.
 
-### Why These Matter
+#### Why These Matter
 - A sloppy name or no README confuses people (including you in six months).  
 - Public/private and licensing affect who can touch your work and how—legal headaches await if you misstep.  
 - A good .gitignore prevents “whoops, I uploaded my API keys” moments.  
