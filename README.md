@@ -4,7 +4,7 @@
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
 Version control is a system that tracks changes to files (usually code, but it can be anything) over time, allowing multiple people to collaborate, revert mistakes, and maintain a history of a project. Let’s break it down to the essentials.
 
-# Fundamental Concepts of Version Control
+#### Fundamental Concepts of Version Control
 1. *Repository*: Think of this as the project folder—except it’s not just a snapshot, it’s the whole timeline. It stores all the files and their revision history. You’ve got local repositories (on your machine) and remote ones (on a server, like GitHub).
 
 2. *Commits*: These are like save points in a video game. Every time you "commit," you’re logging a specific version of your files with a message about what changed. Each commit has a unique ID (a hash), so you can always pinpoint it later.
