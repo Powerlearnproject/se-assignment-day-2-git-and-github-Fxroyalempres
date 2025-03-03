@@ -22,11 +22,11 @@ Version control is a system that tracks changes to files (usually code, but it c
 #### Why GitHub is Popular
 GitHub didn’t invent version control—that’s Git, created by Linus Torvalds in 2005. Git is the engine; GitHub is the slick garage where you park it. Here’s why it’s a go-to:
 
-- **Remote Hosting**: GitHub stores your repository online, so it’s accessible anywhere, backed up, and shareable. No more emailing zip files or losing everything if your laptop dies.
-- **Collaboration Tools**: Pull requests let you propose changes, review code, and discuss before merging. It’s like a group chat for your project, with a built-in audit trail.
-- **Community**: It’s a social network for coders. Open-source projects thrive there—think Linux, TensorFlow—because anyone can fork (copy) a repo, tweak it, and contribute back.
-- **Integration**: GitHub hooks into everything—CI/CD pipelines (like GitHub Actions), issue trackers, wikis. It’s a one-stop shop for managing a project, not just code.
-- **Visibility**: Public repos show off your work to employers or peers. Private ones keep your secrets safe (if you pay or use a free tier).
+- *Remote Hosting*: GitHub stores your repository online, so it’s accessible anywhere, backed up, and shareable. No more emailing zip files or losing everything if your laptop dies.
+- *Collaboration Tools*: Pull requests let you propose changes, review code, and discuss before merging. It’s like a group chat for your project, with a built-in audit trail.
+- *Community*: It’s a social network for coders. Open-source projects thrive there—think Linux, TensorFlow—because anyone can fork (copy) a repo, tweak it, and contribute back.
+- *Integration*: GitHub hooks into everything—CI/CD pipelines (like GitHub Actions), issue trackers, wikis. It’s a one-stop shop for managing a project, not just code.
+- *Visibility*: Public repos show off your work to employers or peers. Private ones keep your secrets safe (if you pay or use a free tier).
 
 Git itself is decentralized—you don’t need GitHub to use it. But GitHub’s polish and ecosystem make it a hub. By March 2025, it’s still king, though competitors like GitLab and Bitbucket nibble at its edges.
 
